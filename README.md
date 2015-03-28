@@ -4,7 +4,7 @@ this is Caos's blog git repository.
 
 base on [Jekyll-Bootstrap][] , add some custom feature.
 
-you can visit by <http://caoshuai.github.com>
+you can visit by <http://ImCaos.github.com>
 
 
 

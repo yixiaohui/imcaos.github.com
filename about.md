@@ -19,5 +19,5 @@ group: "navigation"
 
 [weibo]: http://weibo.com/ImCaos
 
-[github]: http://github.com/caoshuai
+[github]: http://github.com/ImCaos
 
