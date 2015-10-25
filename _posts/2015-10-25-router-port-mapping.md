@@ -1,4 +1,6 @@
-uthor: Caos
+---
+title: 路由器内网端口做外网映射的记录
+author: Caos
 layout: post
 permalink:  //
 
